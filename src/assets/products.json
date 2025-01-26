@@ -1,0 +1,644 @@
+[
+  {
+    "id": 0,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter nass",
+    "brand": "Almo Nature"
+  },
+  {
+    "id": 1,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter nass",
+    "brand": "Almo Nature"
+  },
+  {
+    "id": 2,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter nass",
+    "brand": "Almo Nature"
+  },
+  {
+    "id": 3,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter nass",
+    "brand": "Almo Nature"
+  },
+  {
+    "id": 4,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter nass",
+    "brand": "Almo Nature"
+  },
+  {
+    "id": 5,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter nass",
+    "brand": "Almo Nature"
+  },
+  {
+    "id": 6,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter nass",
+    "brand": "Almo Nature"
+  },
+  {
+    "id": 7,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter nass",
+    "brand": "Almo Nature"
+  },
+  {
+    "id": 8,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter nass",
+    "brand": "Almo Nature"
+  },
+  {
+    "id": 9,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter nass",
+    "brand": "Almo Nature"
+  },
+  {
+    "id": 10,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter trocken",
+    "brand": "Applaws"
+  },
+  {
+    "id": 11,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter trocken",
+    "brand": "Concept for Life"
+  },
+  {
+    "id": 12,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter trocken",
+    "brand": "Cosma"
+  },
+  {
+    "id": 13,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter trocken",
+    "brand": "Happy Cat"
+  },
+  {
+    "id": 14,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter trocken",
+    "brand": "Hill's Prescription Diet"
+  },
+  {
+    "id": 15,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter trocken",
+    "brand": "Hill's Science Plan"
+  },
+  {
+    "id": 16,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter trocken",
+    "brand": "Josera"
+  },
+  {
+    "id": 17,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter trocken",
+    "brand": "Kattovit Spezialdiät"
+  },
+  {
+    "id": 18,
+    "category": "Katzenfutter & Zubehör",
+    "sub_category": "Katzenfutter trocken",
+    "brand": "Leonardo"
+  },
+  {
+    "id": 19,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Belcando"
+  },
+  {
+    "id": 20,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Briantos"
+  },
+  {
+    "id": 21,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "bosch High Premium Concept"
+  },
+  {
+    "id": 22,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Concept for Life"
+  },
+  {
+    "id": 23,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Eukanuba"
+  },
+  {
+    "id": 24,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Green Petfood"
+  },
+  {
+    "id": 25,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Happy Dog Supreme"
+  },
+  {
+    "id": 26,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Hill's Prescription Diet"
+  },
+  {
+    "id": 27,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Hill's Science Plan"
+  },
+  {
+    "id": 28,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Josera"
+  },
+  {
+    "id": 29,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Lukullus Naturkost"
+  },
+  {
+    "id": 30,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Markus Mühle"
+  },
+  {
+    "id": 31,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "mera"
+  },
+  {
+    "id": 32,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Purizon"
+  },
+  {
+    "id": 33,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "RINTI"
+  },
+  {
+    "id": 34,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Belcando"
+  },
+  {
+    "id": 35,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Briantos"
+  },
+  {
+    "id": 36,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "bosch High Premium Concept"
+  },
+  {
+    "id": 37,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Concept for Life"
+  },
+  {
+    "id": 38,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Eukanuba"
+  },
+  {
+    "id": 39,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Green Petfood"
+  },
+  {
+    "id": 40,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Happy Dog Supreme"
+  },
+  {
+    "id": 41,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Hill's Prescription Diet"
+  },
+  {
+    "id": 42,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Hill's Science Plan"
+  },
+  {
+    "id": 43,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Josera"
+  },
+  {
+    "id": 44,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Lukullus Naturkost"
+  },
+  {
+    "id": 45,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Markus Mühle"
+  },
+  {
+    "id": 46,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "mera"
+  },
+  {
+    "id": 47,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "Purizon"
+  },
+  {
+    "id": 48,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter trocken",
+    "brand": "RINTI"
+  },
+  {
+    "id": 49,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "animonda"
+  },
+  {
+    "id": 50,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Briantos"
+  },
+  {
+    "id": 51,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Belcando"
+  },
+  {
+    "id": 52,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Concept for Life Veterinary Diet"
+  },
+  {
+    "id": 53,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "GranataPet"
+  },
+  {
+    "id": 54,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Herrmann's"
+  },
+  {
+    "id": 55,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Hill's Prescription Diet"
+  },
+  {
+    "id": 56,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Josera"
+  },
+  {
+    "id": 57,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Lukullus Naturkost"
+  },
+  {
+    "id": 58,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "MAC's"
+  },
+  {
+    "id": 59,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Purizon"
+  },
+  {
+    "id": 60,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Royal Canin"
+  },
+  {
+    "id": 61,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Royal Canin Veterinary"
+  },
+  {
+    "id": 62,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "RINTI"
+  },
+  {
+    "id": 63,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Rocco"
+  },
+  {
+    "id": 64,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Rocco Diet Care"
+  },
+  {
+    "id": 65,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Rosie's Farm"
+  },
+  {
+    "id": 66,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Terra Canis"
+  },
+  {
+    "id": 67,
+    "category": "Hundefutter & Zubehör",
+    "sub_category": "Hundefutter nass",
+    "brand": "Wolf of Wilderness"
+  },
+  {
+    "id": 68,
+    "category": "Kleintier",
+    "sub_category": "Nagerfutter & Kleintierfutter",
+    "brand": "Kaninchenfutter"
+  },
+  {
+    "id": 69,
+    "category": "Kleintier",
+    "sub_category": "Nagerfutter & Kleintierfutter",
+    "brand": "Meerschweinchenfutter"
+  },
+  {
+    "id": 70,
+    "category": "Kleintier",
+    "sub_category": "Nagerfutter & Kleintierfutter",
+    "brand": "Degufutter"
+  },
+  {
+    "id": 71,
+    "category": "Kleintier",
+    "sub_category": "Nagerfutter & Kleintierfutter",
+    "brand": "Hamsterfutter"
+  },
+  {
+    "id": 72,
+    "category": "Kleintier",
+    "sub_category": "Nagerfutter & Kleintierfutter",
+    "brand": "Chinchillafutter"
+  },
+  {
+    "id": 73,
+    "category": "Kleintier",
+    "sub_category": "Nagerfutter & Kleintierfutter",
+    "brand": "Chinchillafutter"
+  },
+  {
+    "id": 74,
+    "category": "Kleintier",
+    "sub_category": "Nagerfutter & Kleintierfutter",
+    "brand": "Mäusefutter & Rennmausfutter"
+  },
+  {
+    "id": 75,
+    "category": "Kleintier",
+    "sub_category": "Nagerfutter & Kleintierfutter",
+    "brand": "Rattenfutter"
+  },
+  {
+    "id": 76,
+    "category": "Kleintier",
+    "sub_category": "Nagerfutter & Kleintierfutter",
+    "brand": "Eichhörnchenfutter"
+  },
+  {
+    "id": 77,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Alle Produkte"
+  },
+  {
+    "id": 78,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Kräcker & Gebackenes"
+  },
+  {
+    "id": 79,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Kräuter & Raufutter"
+  },
+  {
+    "id": 80,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Knabberhölzer"
+  },
+  {
+    "id": 81,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Mischungen"
+  },
+  {
+    "id": 82,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Naturbelassen & Bio"
+  },
+  {
+    "id": 83,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Vitamine & Futterergänzungen"
+  },
+  {
+    "id": 84,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Mit tierischem Eiweiß"
+  },
+  {
+    "id": 85,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Getreidefrei"
+  },
+  {
+    "id": 86,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Drops"
+  },
+  {
+    "id": 87,
+    "category": "Kleintier",
+    "sub_category": "Snacks & Futterergänzung",
+    "brand": "Heu & Streu"
+  },
+  {
+    "id": 88,
+    "category": "Fisch",
+    "sub_category": "Fischfutter nach Darreichungsform",
+    "brand": "Flockenfutter"
+  },
+  {
+    "id": 89,
+    "category": "Fisch",
+    "sub_category": "Fischfutter nach Darreichungsform",
+    "brand": "Granulat, Sticks & Pellets"
+  },
+  {
+    "id": 90,
+    "category": "Fisch",
+    "sub_category": "Fischfutter nach Darreichungsform",
+    "brand": "Tablettenfutter"
+  },
+  {
+    "id": 91,
+    "category": "Fisch",
+    "sub_category": "Fischfutter nach Darreichungsform",
+    "brand": "Frostfutter & Gelee"
+  },
+  {
+    "id": 92,
+    "category": "Fisch",
+    "sub_category": "Fischfutter nach Darreichungsform",
+    "brand": "Ferienfutter"
+  },
+  {
+    "id": 93,
+    "category": "Fisch",
+    "sub_category": "Futter nach Marken",
+    "brand": "Tetra"
+  },
+  {
+    "id": 94,
+    "category": "Fisch",
+    "sub_category": "Futter nach Marken",
+    "brand": "Sera"
+  },
+  {
+    "id": 95,
+    "category": "Fisch",
+    "sub_category": "Fischfutter nach Fischart",
+    "brand": ""
+  },
+  {
+    "id": 96,
+    "category": "Fisch",
+    "sub_category": "Aquarium Zubehör",
+    "brand": ""
+  },
+  {
+    "id": 97,
+    "category": "Fisch",
+    "sub_category": "Pflanzen & Pflege",
+    "brand": ""
+  },
+  {
+    "id": 98,
+    "category": "Fisch",
+    "sub_category": "Filter & Pumpen",
+    "brand": ""
+  },
+  {
+    "id": 99,
+    "category": "Fisch",
+    "sub_category": "Dekoration",
+    "brand": ""
+  },
+  {
+    "id": 100,
+    "category": "Fisch",
+    "sub_category": "Technik",
+    "brand": ""
+  },
+  {
+    "id": 101,
+    "category": "Fisch",
+    "sub_category": "Beleuchtung",
+    "brand": ""
+  },
+  {
+    "id": 102,
+    "category": "Vogel",
+    "sub_category": "",
+    "brand": ""
+  },
+  {
+    "id": 103,
+    "category": "Pferd",
+    "sub_category": "",
+    "brand": ""
+  },
+  {
+    "id": 104,
+    "category": "Diätfutter",
+    "sub_category": "",
+    "brand": ""
+  },
+  {
+    "id": 105,
+    "category": "Top-Marken",
+    "sub_category": "",
+    "brand": ""
+  },
+  {
+    "id": 105,
+    "category": "%-Angebote",
+    "sub_category": "",
+    "brand": ""
+  }
+]
